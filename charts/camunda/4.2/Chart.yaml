@@ -1,0 +1,7 @@
+apiVersion: v1
+appVersion: "0.24.3"
+description: A Helm chart for camunda with custom elastic index templates
+icon: file://catalogIcon-zeebe.svg
+name: camunda
+sources:
+version: 0.2.4.2
